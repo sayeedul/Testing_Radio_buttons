@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Testing_Radio_buttons</string>
+
+
+
+
+    <string-array name="labels_array">
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>YELLOW</item>
+    </string-array>
+
+</resources>
